@@ -48,9 +48,12 @@
 
 - 수동제어를 위한 리모콘
 
-![image](https://github.com/user-attachments/assets/2cc3871f-a563-4602-a879-d944d5153d80)
+![dddd](https://github.com/user-attachments/assets/c3324dfc-fb18-4bdd-9695-a4ae46165b8a)
+
 
 
 - 센서별 실시간 공기질 그래프
-![image](https://github.com/user-attachments/assets/a435a6e5-eaae-46e6-be4c-c576c32e9889)
+
+![dsad](https://github.com/user-attachments/assets/85430d09-aeea-495c-81f0-52bb68d6038c)
+
 
