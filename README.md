@@ -40,7 +40,6 @@
 <br> 
 
 # [흐름도]
-![image01](https://github.com/user-attachments/assets/f91a1a40-cc56-4753-ae31-c1b6436b07a2)
 
 
 
