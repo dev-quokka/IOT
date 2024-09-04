@@ -46,13 +46,21 @@
 
 # [화면단]
 
+<br>
+
 - 수동제어를 위한 리모콘
+  
+<br>
 
 ![dddd](https://github.com/user-attachments/assets/c3324dfc-fb18-4bdd-9695-a4ae46165b8a)
 
 
+<br>
 
 - 센서별 실시간 공기질 그래프
+
+  
+<br>
 
 ![dsad](https://github.com/user-attachments/assets/85430d09-aeea-495c-81f0-52bb68d6038c)
 
